@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
